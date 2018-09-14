@@ -8,6 +8,7 @@ namespace Calc_test
         [Test()]
         public void TestCase()
         {
+            Assert.AreEqual(0, 0);
         }
     }
 }
